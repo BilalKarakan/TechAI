@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="TechAI.API/TechAI.API.csproj" />
+  <Project Path="TechAI.Business/TechAI.Business.csproj" />
+  <Project Path="TechAI.DataAccess/TechAI.DataAccess.csproj" />
+  <Project Path="TechAI.Domain/TechAI.Domain.csproj" />
+  <Project Path="TechAI.UI/TechAI.UI.csproj" />
+</Solution>
