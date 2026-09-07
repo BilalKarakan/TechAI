@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\TechAI.Domain\TechAI.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
